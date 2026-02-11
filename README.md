@@ -1,1 +1,1 @@
-# JS_Assignment
+# JS_Assignments
