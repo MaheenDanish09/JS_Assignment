@@ -91,13 +91,28 @@
 // document.write("<h1>String:</h1> " + result);
 
 // QUESTION 13 //
-var arr = [];
-arr.push("Apple");
-document.writeln(arr + "<br>");
-arr.push("Banana");
-document.writeln(arr  + "<br>");
-arr.push("Mango");
-document.writeln(arr  + "<br>");
+// var arr = [];
+// arr.push("Apple");
+// document.writeln(arr + "<br>");
+// arr.push("Banana");
+// document.writeln(arr  + "<br>");
+// arr.push("Mango");
+// document.writeln(arr  + "<br>");
 
 // QUESTION 14 //
+// let arr = [];
+// arr.push("Red");
+// arr.push("Blue");
+// arr.push("Green");
+// document.writeln(arr + "<br>");
+// document.writeln(arr.pop() + "<br>");
+// document.writeln(arr.pop() + "<br>");
+// document.writeln(arr.pop() + "<br>");
+
 // QUESTION 15 //
+// let manufacturers = ["Apple" , "Samsung" , "Motorola" , "Sony" , "Nokia" , "Haier"];
+//  document.writeln("<select>");
+// for (var i = 0; i < manufacturers.length; i++) {
+// document.writeln("<option>" + manufacturers[i] + "</option>");
+// }
+// document.writeln("</select>");

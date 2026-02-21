@@ -5,7 +5,9 @@
 // alert(age);
 
 // QUESTION 2 //
-
+// var visitCount = 0;
+// visitCount++;
+//  alert("You have visited this page " + visitCount + " time(s).");
 
 // QUESTION 3 //
 // var birthYear = 2009;

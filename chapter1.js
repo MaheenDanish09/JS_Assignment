@@ -17,5 +17,5 @@
 // console.log(alert("Hello...I can run JS through my web browser's console"));
 
 // QUESTION 6 //
-
+// QUESTION 7 //
 
